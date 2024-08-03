@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1#heading{
+    text-align: center;
+    margin-top: 40px;
+    font-size:30px;
+    color: #E8584F;
+    margin-bottom: 10px;
+}
+#container{
+    margin: 15px auto 0px auto;
+    width: 40%;
+    text-align: center;
+    background-color: #E98074;
+    border-radius: 10px;
+    padding: 20px 0 20px 0;
+
+}
+/*#7091E6    #0FA4AF*/
+.input-div{
+    display: inline-block;
+}
+
+.inpt{
+    padding: 6px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    border-radius: 6px;
+    font-size: 14px
+}
+
+label{
+    font-size: 20px;
+}
+
